@@ -33,9 +33,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   const galleryImages: [string, string][] = [
-    ["/es/galerias/boda", "/content/img/boda/_cover.webp"],
-    ["/es/galerias/comuniones", "/content/img/comuniones/_cover.webp"],
-    ["/es/galerias/publicidad", "/content/img/publicidad/_cover.webp"],
+    ["/es/galerias/boda", "/content/img/boda/boda-01.webp"],
+    ["/es/galerias/comuniones", "/content/img/comuniones/comunion-01.webp"],
+    ["/es/galerias/publicidad", "/content/img/publicidad/publicidad-01.webp"],
   ];
 
   return [

@@ -13,7 +13,7 @@ export async function generateMetadata(): Promise<Metadata> {
     openGraph: {
       title: t("advertisingTitle"),
       description: t("advertisingDescription"),
-      images: [{ url: "/content/img/publicidad/_cover.webp", width: 1200, height: 800 }],
+      images: [{ url: "/content/img/publicidad/publicidad-01.webp", width: 1200, height: 800 }],
     },
   };
 }

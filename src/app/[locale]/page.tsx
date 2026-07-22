@@ -23,19 +23,19 @@ const services = [
     title: "Bodas",
     href: "/es/galerias/boda",
     desc: "Fotografía de bodas natural y emocional",
-    img: "/content/img/boda/_cover.webp",
+    img: "/content/img/boda/boda-01.webp",
   },
   {
     title: "Comuniones",
     href: "/es/galerias/comuniones",
     desc: "Sesiones de comunión únicas",
-    img: "/content/img/comuniones/_cover.webp",
+    img: "/content/img/comuniones/comunion-01.webp",
   },
   {
     title: "Publicidad",
     href: "/es/galerias/publicidad",
     desc: "Fotografía publicitaria profesional",
-    img: "/content/img/publicidad/_cover.webp",
+    img: "/content/img/publicidad/publicidad-01.webp",
   },
 ];
 
