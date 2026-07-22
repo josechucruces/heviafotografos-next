@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "welcome": "Bienvenido",
+    "about": "Nosotros",
+    "galleries": "Galerías",
+    "galleryWedding": "Boda",
+    "galleryCommunion": "Comuniones",
+    "galleryAdvertising": "Publicidad",
+    "blog": "Blog",
+    "blogGeneral": "General",
+    "blogWedding": "Boda",
+    "blogAdvertising": "Publicidad",
+    "blogCommunion": "Comuniones",
+    "blogNews": "Noticias",
+    "blogPersonalWork": "Trabajo personal",
+    "blogStudy": "Estudio",
+    "blogKids": "Niños",
+    "contact": "Contactar"
+  },
+  "footer": {
+    "legal": "Aviso Legal",
+    "cookies": "Cookies",
+    "privacy": "Privacidad",
+    "rights": "Todos los derechos reservados"
+  },
+  "home": {
+    "title": "Fotógrafos de boda en Asturias - Hevia Fotógrafos",
+    "description": "Fotografía de bodas, comuniones y publicidad en Arriondas, Asturias. Más de 30 años capturando momentos especiales con naturalidad y cercanía."
+  },
+  "about": {
+    "title": "Nosotros - Hevia Fotógrafos",
+    "description": "Estudio fotográfico en Arriondas, Asturias. Tamara Hevia y José Cruces, fotógrafos de familia con más de 30 años de experiencia.",
+    "heading": "Sobre nosotros"
+  },
+  "gallery": {
+    "weddingTitle": "Fotografía de bodas en Asturias",
+    "weddingDescription": "Bodas naturales y emocionales en Asturias, Cantabria y norte de España. Capturamos cada momento único de tu día especial.",
+    "communionTitle": "Sesiones de fotos de comunión en Asturias",
+    "communionDescription": "Sesiones de comunión naturales y divertidas en Arriondas y toda Asturias. Recuerda siempre este día tan especial.",
+    "advertisingTitle": "Fotografía publicitaria y de estudio en Asturias",
+    "advertisingDescription": "Fotografía profesional para empresas, productos y campañas publicitarias en Asturias."
+  },
+  "blog": {
+    "title": "Blog de fotografía de boda en Asturias - Hevia Fotógrafos",
+    "description": "Consejos, inspiración y novedades sobre fotografía de bodas, comuniones y sesiones de estudio en Asturias y Cantabria.",
+    "readMore": "Leer más",
+    "by": "Por",
+    "categories": "Categorías",
+    "allPosts": "Todos los artículos",
+    "noPosts": "No hay artículos en esta categoría todavía."
+  },
+  "contact": {
+    "title": "Fotógrafos en Arriondas, Asturias - Contacta con Hevia Fotógrafos",
+    "description": "Contacta con fotógrafos profesionales en Arriondas, Asturias. Especialistas en bodas, comuniones y publicidad en Asturias y Cantabria.",
+    "heading": "Contacta con nosotros",
+    "name": "Nombre",
+    "email": "Email",
+    "phone": "Teléfono",
+    "message": "Mensaje",
+    "send": "Enviar",
+    "success": "Mensaje enviado correctamente",
+    "error": "Error al enviar el mensaje",
+    "whatsapp": "Escríbenos por WhatsApp",
+    "address1": "Arriondas",
+    "address1Detail": "c/Severo Ochoa, 8, 33540 Arriondas, Asturias",
+    "address2": "",
+    "address2Detail": ""
+  },
+  "legal": {
+    "title": "Aviso Legal - Hevia Fotógrafos"
+  },
+  "cookies": {
+    "title": "Política de Cookies - Hevia Fotógrafos",
+    "banner": "Utilizamos cookies propias y de terceros para mejorar tu experiencia de navegación.",
+    "accept": "Aceptar",
+    "reject": "Rechazar"
+  },
+  "privacy": {
+    "title": "Política de Privacidad - Hevia Fotógrafos"
+  },
+  "notFound": {
+    "title": "Página no encontrada",
+    "description": "La página que buscas no existe.",
+    "goHome": "Volver al inicio"
+  },
+  "common": {
+    "whatsapp": "Contáctanos por WhatsApp",
+    "phone1": "985 84 00 55",
+    "phone2": "678 82 71 90",
+    "email": "tamihevia@gmail.com"
+  }
+}

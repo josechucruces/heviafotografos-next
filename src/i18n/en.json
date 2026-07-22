@@ -1,0 +1,92 @@
+{
+  "nav": {
+    "welcome": "Welcome",
+    "about": "About Us",
+    "galleries": "Galleries",
+    "galleryWedding": "Wedding",
+    "galleryCommunion": "Communions",
+    "galleryAdvertising": "Advertising",
+    "blog": "Blog",
+    "blogGeneral": "General",
+    "blogWedding": "Wedding",
+    "blogAdvertising": "Advertising",
+    "blogCommunion": "Communion",
+    "blogNews": "News",
+    "blogPersonalWork": "Personal Work",
+    "blogStudy": "Studio",
+    "blogKids": "Kids",
+    "contact": "Contact"
+  },
+  "footer": {
+    "legal": "Legal Notice",
+    "cookies": "Cookies",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved"
+  },
+  "home": {
+    "title": "Wedding Photographers in Asturias - Hevia Fotógrafos",
+    "description": "Wedding, communion and advertising photography in Arriondas, Asturias. Over 30 years capturing special moments with naturalness and warmth."
+  },
+  "about": {
+    "title": "About Us - Hevia Fotógrafos",
+    "description": "Photography studio in Arriondas, Asturias. Tamara Hevia and José Cruces, family photographers with over 30 years of experience.",
+    "heading": "About us"
+  },
+  "gallery": {
+    "weddingTitle": "Wedding Photography in Asturias",
+    "weddingDescription": "Natural and emotional weddings in Asturias, Cantabria and northern Spain. We capture every unique moment of your special day.",
+    "communionTitle": "Communion Photo Sessions in Asturias",
+    "communionDescription": "Natural and fun communion sessions in Arriondas and all Asturias. Forever remember this special day.",
+    "advertisingTitle": "Advertising and Studio Photography in Asturias",
+    "advertisingDescription": "Professional photography for businesses, products and advertising campaigns in Asturias."
+  },
+  "blog": {
+    "title": "Wedding Photography Blog in Asturias - Hevia Fotógrafos",
+    "description": "Tips, inspiration and news about wedding photography, communions and studio sessions in Asturias and Cantabria.",
+    "readMore": "Read more",
+    "by": "By",
+    "categories": "Categories",
+    "allPosts": "All posts",
+    "noPosts": "No posts in this category yet."
+  },
+  "contact": {
+    "title": "Photographers in Arriondas, Asturias - Contact Hevia Fotógrafos",
+    "description": "Contact professional photographers in Arriondas, Asturias. Specialists in weddings, communions and advertising in Asturias and Cantabria.",
+    "heading": "Contact us",
+    "name": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "message": "Message",
+    "send": "Send",
+    "success": "Message sent successfully",
+    "error": "Error sending message",
+    "whatsapp": "Send us a WhatsApp",
+    "address1": "Arriondas",
+    "address1Detail": "c/Severo Ochoa, 8, 33540 Arriondas, Asturias",
+    "address2": "",
+    "address2Detail": ""
+  },
+  "legal": {
+    "title": "Legal Notice - Hevia Fotógrafos"
+  },
+  "cookies": {
+    "title": "Cookie Policy - Hevia Fotógrafos",
+    "banner": "We use own and third-party cookies to improve your browsing experience.",
+    "accept": "Accept",
+    "reject": "Reject"
+  },
+  "privacy": {
+    "title": "Privacy Policy - Hevia Fotógrafos"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you are looking for does not exist.",
+    "goHome": "Go home"
+  },
+  "common": {
+    "whatsapp": "Contact us on WhatsApp",
+    "phone1": "985 84 00 55",
+    "phone2": "678 82 71 90",
+    "email": "tamihevia@gmail.com"
+  }
+}
